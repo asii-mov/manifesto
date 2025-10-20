@@ -1,0 +1,94 @@
+# User Unions Manifesto
+
+## Executive Summary
+
+The union is a collective group protecting and lowering the access to services commonly used. Despite the internet having more choice, users are often locked into these services even when they generate value (e.g. content creators). With tech companies becoming stronger monopolies the union allows users to have collective bargaining with their platform, the aim is not to harm the platform but to create an understanding between user and corporation
+
+
+---
+
+## What Are User Unions?
+
+User unions are organized collectives of platform users who coordinate to advocate for their interests with online service providers. Rather than individual users having no leverage against large platforms, user unions aggregate demand to create meaningful negotiating power.
+
+A user union would consist of thousands of users across hundreds of social groups, all using a specific online application or service. Together, they would represent a significant portion of the platform's user base and revenue.
+
+---
+
+## The Case for User Unions
+
+### Market Dynamics Have Shifted
+
+**Value Distribution Imbalance**
+- Shareholders currently capture the majority of value from online platforms
+- Modern products depend on users more than ever before for network effects and engagement
+- Users have minimal rights or representation despite being the primary value creators
+
+**The Rise of Digital-First Companies**
+- Fully online products are proliferating and this trend will continue
+- Online companies operate with significantly fewer employees than traditional businesses
+- Traditional worker unions are less relevant in this new economic model
+
+**Low Switching Costs**
+- Many online products have low barriers to switching
+- Users often rely less on specific platforms than platforms rely on their user bases
+- Increasing competition makes platforms more vulnerable to user migration
+
+**Lean, User-Dependent Businesses**
+- AI tools are enabling startups to launch quicker and with less capital
+- The cost of building competitive online products continues to decrease
+
+**Automation and the Future Workforce**
+- As AI, robotics, and automation replace traditional jobs, more people will primarily be consumers rather than workers
+- Worker unions will decline in relevance while user interests become imperative
+- Users will need new mechanisms to protect their interests in an increasingly digital economy
+
+---
+
+## Operational Overview
+
+### Target Markets
+Identify online services and platforms that meet the following criteria:
+- Have viable competitors or alternatives
+- Demonstrate low switching costs for users
+- Depend heavily on network effects and user engagement
+
+### Coordination Mechanisms
+Develop systems to:
+- Verify user commitment to collective action
+- Implement incentive structures for participation
+- Enforce accountability among union members
+- Distribute benefits (monetary or equity-based) from successful negotiations
+
+### Negotiation Approach
+Rather than aggressive tactics or threats, user unions would:
+- Engage in constructive dialogue with platform operators
+- Present evidence-based cases for policy changes or pricing adjustments
+- Leverage collective bargaining power through demonstrated willingness to migrate
+- Build long-term relationships with companies that respect user interests
+
+---
+
+## Goals and Principles
+
+**Primary Objective**
+Protect users from exploitative practices and ensure fair value distribution between platforms and their user communities.
+
+**Strategic Approach**
+Build a federated network of user unions across different industries and platforms. Collectively, these unions create a powerful sphere of influence that can advocate effectively for user rights.
+
+**Governance Considerations**
+Balance centralized leadership for effective coordination with user input and democratic principles. Avoid overly aggressive tactics that could create legal risks or antagonize platform operators unnecessarily.
+
+---
+
+## Open Questions
+
+- How to implement user coordination systems at scale
+- Optimal governance structures balancing effectiveness with user representation
+- Strategies for initial user acquisition and union formation
+- Methods for maintaining user commitment over time
+
+---
+
+*This manifesto represents an evolving concept. Feedback and thoughtful discussion are welcome.*
